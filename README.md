@@ -1,36 +1,33 @@
 
-<h1 align="center">Food Delivery</h1>
-  
-  
-  <p align="center">
-    <img alt="Language" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-    <img alt="Language" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-    <img alt="Language" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-    <img alt="Language" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-    <img alt="Language" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    <img alt="Language" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
-    <img alt="Language" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
-    <img alt="Language" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    <img alt="Language" src="https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white"/>
-    
-  </p>
+# 🍔 Food Delivery Web Application
 
+A full-stack food delivery platform built with modern web technologies. Order your favorite meals from local restaurants and get them delivered to your doorstep!
 
-![Picture](https://raw.githubusercontent.com/fr0st-iwnl/assets/main/thumbnails/swadexpress.png)
+## 🚀 Features
 
+- **User Authentication**: Secure signup and login system
+- **Menu Browsing**: Explore various food categories and items
+- **Cart System**: Add/remove items and adjust quantities
+- **Order Tracking**: Real-time order status updates
+- **Admin Dashboard**: Manage menu, orders, and deliveries
+- **Secure Payments**: Integrated with Stripe payment gateway
 
-<p align="center">
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(141).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(142).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(143).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(144).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(267).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(268).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(269).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(270).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(272).png" />
-	<img src="https://github.com/ayushsingh186312/Food-Del/blob/master/Frontend/Screenshot%20(273).png" />
-</p>
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+
+## 📸 Screenshots
+
+*Screenshots coming soon*
+
+---
 
 # Installation
 
